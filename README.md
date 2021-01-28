@@ -1,5 +1,5 @@
 # hello-world
 
-Hello
+Hey
 
-My name is Dean October, I love to play games and I was a professional Call Of Duty player in the Black Ops 4 season.
+My name is Dean and this is my first repository
