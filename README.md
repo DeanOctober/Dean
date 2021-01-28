@@ -1,5 +1,5 @@
-# hello-world
+# Dean
 
 Hey
 
-My name is Dean and this is my first repository
+This is my first time doing a repository
